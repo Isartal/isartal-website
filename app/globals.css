@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body {
+  padding-bottom: 80px;
+}
+
 @keyframes line {
   from {
     transform: scaleX(0);

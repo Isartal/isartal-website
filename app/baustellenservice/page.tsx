@@ -217,7 +217,7 @@ export default function Baustellenservice() {
         Baustellenservice
       </p>
 
-      <h2 className="mb-6 text-3xl font-semibold md:text-4xl">
+      <h2 className="mb-6 text-3xl font-semibold md:text-4xl break-words">
         Zuverlässige Baustellenunterstützung für Bauprojekte
       </h2>
 
