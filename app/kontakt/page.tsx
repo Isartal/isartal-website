@@ -55,10 +55,10 @@ export default function KontaktPage() {
               <div>
                 <p className="mb-2 text-sm text-gray-500">E Mail</p>
                 <a
-                  href="mailto:info@isartal-muenchen.de"
+                  href="mailto:info@isartal-ausbau.de"
                   className="text-xl font-semibold text-gray-900 hover:text-blue-600"
                 >
-                  info@isartal-muenchen.de
+                  info@isartal-ausbau.de
                 </a>
               </div>
 
@@ -79,7 +79,7 @@ export default function KontaktPage() {
               </a>
 
               <a
-                href="mailto:info@isartal-muenchen.de"
+                href="mailto:info@isartal-ausbau.de"
                 className="rounded-lg border border-gray-300 px-6 py-3 font-medium text-gray-900 transition hover:border-blue-600 hover:text-blue-600"
               >
                 E Mail senden

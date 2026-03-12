@@ -59,7 +59,7 @@ export default function Footer() {
 
           <ul className="space-y-2 text-gray-600">
             <li>Telefon: 0155 63005393</li>
-            <li>E-Mail: info@isartal-muenchen.de</li>
+            <li>E-Mail: info@isartal-ausbau.de</li>
             <li>München & Umgebung</li>
           </ul>
 
